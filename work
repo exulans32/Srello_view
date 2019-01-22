@@ -1,0 +1,3 @@
+1. https://getbootstrap.com/docs/3.3/examples/offcanvas/ 로 적용해서 상단부를 다시 만들고
+2. 리스트를 기존꺼를 가져가던지 아니면 drag and drop이 가능한 소스에서 차용해 오던지 둘중 하나 선택
+3. 1에서 만든 상단부로 project의 상단부 그대로 넣고 inline block 활용하고 css 수정 
