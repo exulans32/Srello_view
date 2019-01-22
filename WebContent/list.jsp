@@ -1,3 +1,9 @@
+<!--    1. add button -> modal window access
+		2. create card modal
+		3. create list modal
+		4. open card button -> modal 	
+		5. login view	
+ -->
 <!DOCTYPE html>
 <html>
 <head>
